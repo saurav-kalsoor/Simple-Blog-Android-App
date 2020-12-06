@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775752345358",
+    "firebase_url": "https://fir-demo-app-23e73.firebaseio.com",
+    "project_id": "fir-demo-app-23e73",
+    "storage_bucket": "fir-demo-app-23e73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775752345358:android:3d744d7026aa3ae8db595f",
+        "android_client_info": {
+          "package_name": "com.example.instagramapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775752345358-polofm9o2s690i9doeii8u7csbu2e60s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKL-mMH73EQ7HnD9doA-3Q5eB2VbxA6SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775752345358-polofm9o2s690i9doeii8u7csbu2e60s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
