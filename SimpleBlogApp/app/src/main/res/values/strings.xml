@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Blog App</string>
+    <string name="imageButton">Click Here To Add Image</string>
+    <string name="title">Post Title …</string>
+    <string name="description">Post Description …</string>
+    <string name="postButton">Submit POST</string>
+
+    <string name="post_image">Post Image</string>
+    <string name="post_title">The Post Title Goes Here…</string>
+    <string name="post_desc">The Post Description Goes Here…</string>
+</resources>
