@@ -1,1 +1,1 @@
-# Simple-Blog-Android-App
+# Simple Blog Android App
